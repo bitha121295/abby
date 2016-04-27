@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abby/Escritorio/Menus_mouseAG/menumouse.cpp
+stdio.h
+-
+GL/gl.h
+-
+GL/glut.h
+-
+
